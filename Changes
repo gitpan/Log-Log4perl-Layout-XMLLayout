@@ -1,0 +1,4 @@
+Revision history for Perl extension XMLLayout.
+
+0.1  Thu Jul 24 20:26:40 2003
+     - initial Version based on Log::Log4perl::Layout::PatternLayout
