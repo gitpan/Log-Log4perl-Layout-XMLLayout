@@ -28,8 +28,7 @@ SYNOPSIS
 
 DESCRIPTION
     Creates a XML layout according to
-    http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/xml/XMLLayout.
-    html
+    http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/xml/XMLLayout.html
 
     Logfiles generated based on XMLLayout can be viewed and filtered within
     the log4j chainsaw graphical user interface. chainsaw is part of the

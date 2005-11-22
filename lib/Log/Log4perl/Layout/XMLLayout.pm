@@ -15,7 +15,7 @@ use File::Spec;
 our $TIME_HIRES_AVAILABLE;
 our $TIME_HIRES_AVAILABLE_WARNED = 0;
 
-our $VERSION = do { my @r = (q$Revision: 0.02 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
+our $VERSION = do { my @r = (q$Revision: 0.03 $ =~ /\d+/g); sprintf "%d."."%02d" x $#r, @r };
 
 
 
